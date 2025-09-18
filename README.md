@@ -1,7 +1,6 @@
-# Olá, eu sou a **Isis Julie** ✨
+# Olá, sou **Isis Julie** ✨
 
 💻 Desenvolvedora em **HTML**, **C**, **Python**, com experiência em **Random Forest**, **SQLite**, **CustomTkinter** e **Tkinter**.  
-🚀 Apaixonada por resolver problemas com tecnologia, aprender novas ferramentas e transformar ideias em código.
 
 ---
 
