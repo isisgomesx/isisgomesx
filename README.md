@@ -23,7 +23,7 @@
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="SQLite" height="40" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
   <img align="center" alt="Tkinter" height="40" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
-  <img align="center" alt="CustomTkinter" height="40" width="40" src="https://raw.githubusercontent.com/ParthJadhav/CustomTkinter/master/images/logo.png">
+  <img align="center" alt="CustomTkinter" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/TkInterLogo.png">
 </div>
 
 ---
@@ -47,8 +47,9 @@
 
 <div align="center">
 
-![Isis's GitHub stats](https://github-readme-stats.vercel.app/api?username=isisgomesx&show_icons=true&theme=tokyonight)  
+![Isis's GitHub stats](https://github-readme-stats.vercel.app/api?username=isisgomesx&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isisgomesx&layout=compact&theme=tokyonight)
+
 
 </div>
 
