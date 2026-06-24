@@ -1,65 +1,44 @@
-# Olá, sou **Isis Julie** ✨
+# Olá! Sou a Isis Julie 👋
 
-💻 Desenvolvedora em **HTML**, **C**, **Python**, com experiência em **Random Forest**, **SQLite**, **CustomTkinter** e **Tkinter**.  
+**Desenvolvedora de Software | Ciência da Computação**
 
----
+Transformando ideias em soluções reais através de código, design e inovação. 
 
-## 🌸 Sobre mim
+## 👩🏻‍💻 Sobre mim
 
-- 🎓 Estudante de Ciências da computação  
-- 🔬 Interesse em ciência de dados, IA e desenvolvimento back-end e de interfaces gráficas
-- 🔆 Full stack
-- 🛠️ Gosto de construir aplicações práticas e criativas  
-- 📚 Sempre estudando para expandir minhas habilidades
+Sou apaixonada por criar aplicações eficientes, desde a concepção da interface até a lógica do servidor. Minha trajetória envolve tanto o desenvolvimento de sistemas e automações quanto a criação de identidades visuais e instrução em tecnologia. Isso me garante uma visão completa do ciclo de um projeto — garantindo que a entrega seja não apenas funcional, mas também intuitiva e focada na experiência do usuário.
 
----
+* 🎯 **Foco atual:** Desenvolvimento Full Stack, Inteligência Artificial e Criação de Jogos.
+* 💡 **O que eu entrego:** Construo desde aplicações práticas e APIs, até scripts de automação e interfaces gráficas. 
+* 📫 **Como me encontrar:** [Seu LinkedIn](link) | [Seu Email](mailto:seu-email@gmail.com)
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="SQLite" height="40" width="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
-  <img align="center" alt="Tkinter" height="40" width="40" src="https://img.icons8.com/?size=512&id=13441&format=png">
-  <img align="center" alt="CustomTkinter" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/TkInterLogo.png">
-</div>
+**Linguagens de Programação:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Web & Back-end:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Design & Outras Ferramentas:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+*(Tkinter, CustomTkinter, GameMaker e CorelDRAW também fazem parte do meu escopo de ferramentas criativas).*
+
+## 🚀 Projetos em Destaque
+
+Aqui estão alguns dos projetos onde aplico essas tecnologias na prática:
+
+* **[Sistema de Monitoramento de Risco de Saúde com IA](link-do-repo)** * *O que é:* Um sistema inteligente para análise... (descreva em uma linha)
+    * *Tecnologias:* Python, Random Forest, SQLite.
+* **[Nome de outro projeto - ex: Jogo ou Automação](link-do-repo)**
+    * *O que é:* Breve descrição focada no problema que ele resolve.
+    * *Tecnologias:* Ferramenta 1, Ferramenta 2.
 
 ---
-
-## 🌟 Projetos em Destaque
-
-📌 Aqui estão alguns dos meus projetos (em constante evolução):
-
-- **[Sistema de Monitoramento de Risco de Saúde com IA](https://github.com/isisgomesx/sistema-de-monitoramento-c.a.i)**  
-  🔹 IA com regressão e Random Forest para prever categorias de risco, interface em **CustomTkinter**, banco em **SQLite**
-
-- **[Sistema de Estoque](https://github.com/isisgomesx/Sistema-de-estoque.git)**  
-  🔹 Aplicação para gerenciamento de estoque, utilizando **Python** e **Tkinter**
-
-- **[Listas](https://github.com/isisgomesx/listas.git)**  
-  🔹 Implementação de estruturas de dados de listas, focado em lógica de programação
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![Isis's GitHub stats](https://github-readme-stats.vercel.app/api?username=isisgomesx&show_icons=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isisgomesx&layout=compact&theme=tokyonight)
-
-
-</div>
-
----
-
-## 📫 Contato
-
-- ✉️ **Email**: isinhajulie10@gmail.com
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/isisjugomes/
-- 🌐 Sempre aberta a novas ideias, colaborações e aprendizados!
-
----
-
-✨ *“Sempre aprendendo, sempre programando.”*
+⭐️ *Deixe uma estrelinha nos repositórios que você gostar!*
