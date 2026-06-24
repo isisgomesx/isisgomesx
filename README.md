@@ -30,15 +30,3 @@ Sou apaixonada por criar aplicações eficientes, desde a concepção da interfa
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 *(Tkinter, CustomTkinter, GameMaker e CorelDRAW também fazem parte do meu escopo de ferramentas criativas).*
 
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns dos projetos onde aplico essas tecnologias na prática:
-
-* **[Sistema de Monitoramento de Risco de Saúde com IA](link-do-repo)** * *O que é:* Um sistema inteligente para análise... (descreva em uma linha)
-    * *Tecnologias:* Python, Random Forest, SQLite.
-* **[Nome de outro projeto - ex: Jogo ou Automação](link-do-repo)**
-    * *O que é:* Breve descrição focada no problema que ele resolve.
-    * *Tecnologias:* Ferramenta 1, Ferramenta 2.
-
----
-⭐️ *Deixe uma estrelinha nos repositórios que você gostar!*
