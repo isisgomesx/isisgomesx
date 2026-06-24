@@ -10,7 +10,6 @@ Sou apaixonada por criar aplicações eficientes, desde a concepção da interfa
 
 * 🎯 **Foco atual:** Desenvolvimento Full Stack, Inteligência Artificial e Criação de Jogos.
 * 💡 **O que eu entrego:** Construo desde aplicações práticas e APIs, até scripts de automação e interfaces gráficas. 
-* 📫 **Como me encontrar:** [Seu LinkedIn](link) | [Seu Email](mailto:seu-email@gmail.com)
 
 ## 🛠️ Tecnologias e Ferramentas
 
